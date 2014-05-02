@@ -1,0 +1,1 @@
+"/home/crazybee/cufflinks/cuffdiff -p" 1 -o "C:\Program Files" -m 150 -s 50 --FDR 0.01 -c 0 -u -L asdfasdf,asdf "The selected gtf file will be displayed here." "C:\Program Files\7-Zip\7-zip.chm" "C:\Program Files\Internet Explorer\D3DCompiler_47.dll"
